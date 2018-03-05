@@ -3,13 +3,11 @@
   padding: 32px;
   flex-direction: column;
   background: #1a1d1b;
-  color: #fff;
 }
 
 .Body-container {
   max-width: 1260px;
   margin: 0 auto;
-  position: relative;
   padding: 34px 0 80px;
   color: #fff;
 }
@@ -21,12 +19,11 @@
   margin: 18px auto;
 }
 
-.Body-container strong {
+.Body-container b {
   font-weight: 900;
 }
 
 .Body-title {
-  width: 100%;
   font: 68px/1.12 Lato, sans-serif;
   font-weight: 900;
   text-transform: uppercase;
@@ -35,17 +32,6 @@
   background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
-}
-
-.Body-item {
-  text-align: justify;
-  min-width: 400px;
-  max-width: 600px;
-  padding: 40px;
-  margin: 0 auto;
-  flex-shrink: 1;
-  flex-grow: 1;
-  width: 1px;
 }
 
 .Body-img {

@@ -12,7 +12,7 @@ class Body extends Component {
           </h2>
           <p>
             A full-day, two-track conference on all things React, gathering Front-end and Full-stack developers across
-            the globe in the tech heart of Europe. We're coming back with a new gig on <strong>April 13, 2018</strong>.
+            the globe in the tech heart of Europe. We're coming back with a new gig on <b>April 13, 2018</b>.
             Mark your calendars for the biggest React community event.
             <br />
             Same as last year, day before the main event, we'll host a{' '}
