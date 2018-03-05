@@ -38,6 +38,7 @@
 }
 
 .Header-overlay {
+  background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0IiBoZWlnaHQ9IjQiPjxkZWZzPjxzdHlsZT4uY2xzLTF7b3BhY2l0eTouNH08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0wIDBoMnYySDB6Ii8+PHBhdGggaWQ9IlJlY3RhbmdsZV8xX2NvcHkiIGRhdGEtbmFtZT0iUmVjdGFuZ2xlIDEgY29weSIgY2xhc3M9ImNscy0xIiBkPSJNMiAyaDJ2MkgyeiIvPjwvc3ZnPg==") 50% rgba(0, 0, 0, .4);
   position: absolute;
   width: 100%;
   height: 100%;
