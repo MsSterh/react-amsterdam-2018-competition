@@ -1,18 +1,18 @@
 {
-  "name": "react-amsterdam-2017-competition",
+  "name": "react-amsterdam-2018-competition",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://MsSterh@github.com/react-amsterdam-2017-competition.git"
+    "url": "git+https://github.com/react-amsterdam-2018-competition.git"
   },
   "author": "Alex Kurganov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MsSterh/react-amsterdam-2017-competition/issues"
+    "url": "https://github.com/react-amsterdam-2018-competition/issues"
   },
-  "homepage": "https://github.com/MsSterh/react-amsterdam-2017-competition#readme",
+  "homepage": "https://github.com/react-amsterdam-2018-competition#readme",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
